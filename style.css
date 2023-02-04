@@ -1,0 +1,43 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bolder;
+}
+.note{
+  font-size: 18px;
+  color: red;
+  font-family: cursive;
+}
+body{
+    background-size: cover;
+}
+.heading{
+  font-size: 25px;
+  width: 100%;
+  margin: 0px;
+  font-weight: bolder;
+}
+.note{
+font-size: 18px;
+color: red;
+font-family: cursive;
+}
+body{
+  background-size: cover;
+}
+.play_button{
+  width: 95px;
+  height: 45px;
+  font-size: 25px;
+  font-weight: bolder;
+  
+}
+canvas{
+  border: 5px solid whitesmoke;
+  border-radius: 15px;
+}
+#song{
+  color: red;
+  font-weight: bolder;
+}
